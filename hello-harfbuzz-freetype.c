@@ -13,8 +13,8 @@
 int
 main(int argc, char **argv)
 {
-  const char *fontfile = "KhmerSerif.ttf";
-  char text[] = "\u17d2\u17d2";
+  const char *fontfile = "Padauk-book.ttf";
+  char text[] = "\u1006\u200C\u1031";
 
   size_t textLen = strlen(text);
 
